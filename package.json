@@ -1,10 +1,12 @@
 {
-  "version": "1.0.0",
-  "name": "solid-dzone",
+  "version": "1.0.1",
+  "name": "@eekrain/solid-dzone",
   "description": "Simple, high-quality drag'n'drop primitive for Solid JS",
   "license": "MIT",
   "author": "Jcanotorr06",
-  "contributors": [],
+  "contributors": [
+    "eekrain"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jcanotorr06/solid-dzone.git"
